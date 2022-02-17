@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(12, 231, 231, 0.733);
+    text-align: center;
+}
+
+.front{
+    color: white;
+    font-size: 6rem;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Nova Round', cursive;
+}
+h2{
+    font-family: 'Nova Round', cursive;
+
+}
+button{
+    padding: 20px;
+    border-radius: 12%;
+    color: rgba(212, 11, 11, 0.767);
+    font-size: 4rem;
+    width: 300px;
+    font-family: 'Nova Round', cursive;
+
+}
+button:hover{
+    background-color: rgba(247, 255, 249, 0.815);
+}
+#refresh{
+    /* text-align: center; */
+    font-size: 5rem;
+    color: #fff;
+}
+.dice{
+    /* text-align: center; */
+    font-size: 3rem;
+    color: #fff;
+    padding: 30px;
+    /* float: right; */
+display: inline-block;
+
+}
+
+.linker{
+    font-size: 2rem;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+  padding: 10px;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+}
